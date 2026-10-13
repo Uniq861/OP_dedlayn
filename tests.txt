@@ -1,0 +1,89 @@
+$ ./main  (test 1: qo'shish, chiqarish, o'chirish)
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 5 boshiga qo'shildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 10 oxiriga qo'shildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 3 boshiga qo'shildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: 3 -> 5 -> 10 -> NULL
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 10 o'chirildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: 3 -> 5 -> NULL
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 99 ro'yxatda topilmadi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Ro'yxat bo'shatildi. Dastur tugadi.
+
+$ ./main  (test 2: xato kiritish)
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Xato: butun son kiriting.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Xato: 0..4 oralig'ida tanlang.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: Xato: butun son kiriting.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: Xato: butun son kiriting.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Ro'yxat bo'sh.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Ro'yxat bo'shatildi. Dastur tugadi.
+
+$ ./main  (test 3: bo'sh ro'yxat, topilmagan qiymat, to'liq tozalash)
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Ro'yxat bo'sh.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 8 ro'yxatda topilmadi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 1 oxiriga qo'shildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 2 oxiriga qo'shildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Qiymat: 3 oxiriga qo'shildi.
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: 1 -> 2 -> 3 -> NULL
+
+1) Boshiga qo'shish  2) Oxiriga qo'shish  3) Qiymat bo'yicha o'chirish
+4) Chiqarish  0) Chiqish
+Tanlov: Ro'yxat bo'shatildi. Dastur tugadi.
