@@ -1,0 +1,28 @@
+$ masala2
+Satr kiriting (<= 99 belgi): Unli harflar : 3
+Undosh harflar: 7
+Raqamlar     : 4
+Bo'shliqlar  : 2
+s massivining manzili      : 0x7ffc9b7c1fe0
+'unli' o'zgaruvchi manzili : 0x7ffc9b7c1fd0
+'undosh' o'zgaruvchi manzili: 0x7ffc9b7c1fd4
+[exit=0]
+
+$ masala2
+Satr kiriting (<= 99 belgi): Unli harflar : 10
+Undosh harflar: 14
+Raqamlar     : 1
+Bo'shliqlar  : 5
+s massivining manzili      : 0x7ffda97d6ce0
+'unli' o'zgaruvchi manzili : 0x7ffda97d6cd0
+'undosh' o'zgaruvchi manzili: 0x7ffda97d6cd4
+[exit=0]
+
+$ masala2
+Satr kiriting (<= 99 belgi): Xato: bo'sh satr kiritildi.
+[exit=1]
+
+$ masala2
+Satr kiriting (<= 99 belgi): Xato: satr juda uzun (<= 99 belgi bo'lishi kerak).
+[exit=1]
+

@@ -1,0 +1,22 @@
+$ masala1
+Satr kiriting (<= 99 belgi): Unli harflar : 3
+Undosh harflar: 7
+Raqamlar     : 4
+Bo'shliqlar  : 2
+[exit=0]
+
+$ masala1
+Satr kiriting (<= 99 belgi): Unli harflar : 10
+Undosh harflar: 14
+Raqamlar     : 1
+Bo'shliqlar  : 5
+[exit=0]
+
+$ masala1
+Satr kiriting (<= 99 belgi): Xato: bo'sh satr kiritildi.
+[exit=1]
+
+$ masala1
+Satr kiriting (<= 99 belgi): Xato: satr juda uzun (<= 99 belgi bo'lishi kerak).
+[exit=1]
+
